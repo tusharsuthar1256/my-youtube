@@ -1,4 +1,4 @@
-# 🎬 CoolTube — Full-Stack Video Streaming Platform
+# 🎬 YT — Full-Stack Video Streaming Platform
 
 <div align="center">
 
